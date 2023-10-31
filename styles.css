@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    font-family: Helvetica;
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    background: #ccc;
+    padding-top: 50px;
+    padding-bottom: 5px;
+}
+.header{
+    padding: 15px;
+}
+.header h2{
+    margin: 0;
+    font-size: 20px;
+}
+.box .header .numero{
+    float: right;
+    margin: 0;
+    color: #979696ab;
+    font-size: 15px;
+}
+
+
+.box{
+    border: 1px solid #dadbdb;
+    border-radius: 5px;
+    background: white;
+    max-width: 600px;
+    max-height: 600px;
+    margin: auto;
+    
+    margin-bottom: 60px;
+    
+    
+    
+    
+}
+.descripcion{
+    padding: 15px;
+}
+.img img{
+    width: 100%;
+}
